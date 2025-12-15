@@ -17,5 +17,5 @@ It provides CRUD operations, real-time quantity updates, and insights into stock
 - Entity Framework
 
 ## 💡 Author
-Developed by **ZimangiSpark**  
+Developed by **Ceasar Zimangi Ujika**  
 #zimangispark
